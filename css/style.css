@@ -522,6 +522,13 @@ img[about_image] {
 	width:49%;
 }
 
+.pic-1{
+  float:right;
+  padding-top: 5%;
+  padding-right: 5%;
+
+}
+
  h2,p{
 	font-family:georgia;
 
